@@ -22,6 +22,6 @@ python scripts/main.py
 
 ## How to Run
 1. Clone the repo
-2. `cd projects/airbnb-market-analysis/scripts`
+2. `cd projects/business-analytics/scripts`
 3. `pip install -r ../requirements.txt`
 4. `python3 main.py`
