@@ -1,10 +1,15 @@
 # business-analytics-dashboard
 
 ## Overview
-This is the business-analytics-dashboard project. 
+This is the business-analytics-dashboard project.
 
 ## Technologies
 Python, Pandas, NumPy, Matplotlib
+
+## Scripts
+```python
+print('business-analytics-dashboard Project')
+```
 
 ## Usage
 ```bash
@@ -12,6 +17,6 @@ python scripts/main.py
 ```
 
 ## Outcome
-- Added basic script for demonstration
+- Full project code included
 - Ready for further development
 
